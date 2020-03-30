@@ -1,0 +1,13 @@
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\obj\Debug\netcoreapp3.1\TestingAnimalGame.csprojAssemblyReference.cache
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\obj\Debug\netcoreapp3.1\TestingAnimalGame.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\obj\Debug\netcoreapp3.1\TestingAnimalGame.AssemblyInfoInputs.cache
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\obj\Debug\netcoreapp3.1\TestingAnimalGame.AssemblyInfo.cs
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\bin\Debug\netcoreapp3.1\TestingAnimalGame.exe
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\bin\Debug\netcoreapp3.1\TestingAnimalGame.deps.json
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\bin\Debug\netcoreapp3.1\TestingAnimalGame.runtimeconfig.json
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\bin\Debug\netcoreapp3.1\TestingAnimalGame.runtimeconfig.dev.json
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\bin\Debug\netcoreapp3.1\TestingAnimalGame.dll
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\bin\Debug\netcoreapp3.1\TestingAnimalGame.pdb
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\obj\Debug\netcoreapp3.1\TestingAnimalGame.dll
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\obj\Debug\netcoreapp3.1\TestingAnimalGame.pdb
+C:\Users\Bradley\Desktop\Data structures\TestingAnimalGame\obj\Debug\netcoreapp3.1\TestingAnimalGame.genruntimeconfig.cache
